@@ -57,7 +57,6 @@ var isValid = function(s) {
         }    
     }
     
-    console.log(tempArr);
     if(tempArr.length === 0){
         return true;
     }else{
